@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p align='center'>
-<a href="https://dev.to/eclecticcoding"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/EclecticCoding"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dev-chuck-smith/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://dev.to/eclecticcoding"><img height="30" src="https://raw.githubusercontent.com/eclectic-coding/eclectic-coding/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/EclecticCoding"><img height="30" src="https://github.com/eclectic-coding/eclectic-coding/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dev-chuck-smith/"><img height="30" src="https://github.com/eclectic-coding/eclectic-coding/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 
