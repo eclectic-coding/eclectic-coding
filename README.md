@@ -20,7 +20,4 @@ Want to know more about me? Check out my [portfolio](https://chucksmith.dev).
 
 <!-- BLOG-POST-LIST:END -->
 
-<!-- GitHub Stats -- >
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eclectic-coding)](https://github.com/anuraghazra/github-readme-stats)
