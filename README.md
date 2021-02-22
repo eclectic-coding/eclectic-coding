@@ -12,3 +12,7 @@
 - [Rails Image Helper](https://dev.to/eclecticcoding/rails-image-helper-22mc)
 - [Rails Search Bar](https://dev.to/eclecticcoding/rails-search-bar-j77)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- GitHub Stats -- >
+
+[![Chuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=eclectic-coding)](https://github.com/eclectic-coding/github-readme-stats)
