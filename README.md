@@ -6,4 +6,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Devise Profile Usernames](https://dev.to/eclecticcoding/devise-profile-usernames-30j4)
+- [Dev Environment SSL](https://dev.to/eclecticcoding/dev-environment-ssl-4fg8)
+- [Rails Basic Template](https://dev.to/eclecticcoding/rails-basic-template-3opg)
+- [Rails Image Helper](https://dev.to/eclecticcoding/rails-image-helper-22mc)
+- [Rails Search Bar](https://dev.to/eclecticcoding/rails-search-bar-j77)
 <!-- BLOG-POST-LIST:END -->
