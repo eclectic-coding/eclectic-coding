@@ -3,7 +3,7 @@
 
 ### Hey there 👋
 
-My name is Chuck, and I am a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+My name is Chuck, and I am a full-stack software engineer. I have been developing websites as a hobby for twenty plus years, and I am transitioning to a professional career. 
 
 Want to know more about me? Check out my [portfolio](https://chucksmith.dev).
 
