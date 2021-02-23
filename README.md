@@ -37,7 +37,6 @@ Want to know more about me? Check out my [portfolio](https://chucksmith.dev).
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rails&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3578e5)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3578e5)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=3578e5)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=4fc08d)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=663399)
