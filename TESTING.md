@@ -3,5 +3,3 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/EclecticCoding)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dev-chuck-smith/)
 
-
-[![Chuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=eclectic-coding&hide=stars&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
