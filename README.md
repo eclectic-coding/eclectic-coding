@@ -12,11 +12,11 @@ Want to know more about me? Check out my [portfolio](https://chucksmith.dev).
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using each_slice in Rails](https://dev.to/eclecticcoding/using-eachslice-in-rails-51cj)
 - [Learning Rails](https://dev.to/eclecticcoding/learning-rails-1k0l)
 - [Set Up Rbenv Revisited](https://dev.to/eclecticcoding/set-up-rbenv-revisited-4ngo)
 - [Devise Profile Usernames](https://dev.to/eclecticcoding/devise-profile-usernames-30j4)
 - [Dev Environment SSL](https://dev.to/eclecticcoding/dev-environment-ssl-4fg8)
-- [Rails Basic Template](https://dev.to/eclecticcoding/rails-basic-template-3opg)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
